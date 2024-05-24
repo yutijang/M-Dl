@@ -18,3 +18,14 @@ ffmpeg [https://ffmpeg.org/](https://ffmpeg.org/)
 
 
 Or download them at [Support](https://github.com/yutijang/M-Dl/tree/main/Support) folder
+
+All three files, aria2c.exe, yt-dlp.exe, and ffmpeg.exe, must be placed in the Support folder at the same level as the M-Dl.exe file.
+
+
+The Add single link button ![add-2](https://github.com/yutijang/M-Dl/assets/5685320/419abd74-e788-4ca9-9b3a-453f9464843c) is used to analyze and add types of links: direct, torrent, magnet, playlist, media album from video and audio sharing websites, torrent files from your computer.
+
+You can also add link lists (of the same type) using the Create link list button ![create-2](https://github.com/yutijang/M-Dl/assets/5685320/6bd7719d-271d-44d5-be56-df746fd1ae28)
+
+
+#  
+This tool is written in the autoit programming language so it will inevitably be mistakenly recognized as a virus by anti-virus software. It's up to you whether you want to use it or not
