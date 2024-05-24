@@ -28,4 +28,4 @@ You can also add link lists (of the same type) using the Create link list button
 
 
 #  
-This tool is written in the autoit programming language so it will inevitably be mistakenly recognized as a virus by anti-virus software. It's up to you whether you want to use it or not
+This tool is written in the AutoIt programming language so it will inevitably be mistakenly recognized as a virus by anti-virus softwares. It's up to you whether you want to use it or not
