@@ -22,6 +22,11 @@ All three files, aria2c.exe, yt-dlp.exe, and ffmpeg.exe, must be placed in the S
 
 The Add single link button ![add-2](https://github.com/yutijang/M-Dl/assets/5685320/419abd74-e788-4ca9-9b3a-453f9464843c) is used to analyze and add types of links: direct, torrent, magnet, playlist, media album from video and audio sharing websites, torrent files from your computer.
 
+Main GUI
+
+![image](https://github.com/yutijang/M-Dl/assets/5685320/619c37c0-b240-462b-b43e-cb603b80f188)
+
+
 Parse YouTube link
 
 ![image](https://github.com/yutijang/M-Dl/assets/5685320/cc203982-a4f7-47f5-a6ef-b9a5adb5d417)
