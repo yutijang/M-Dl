@@ -54,6 +54,7 @@ Parse magnet link
 
 ![image](https://github.com/yutijang/M-Dl/assets/5685320/94ee0f5c-cb75-4e57-9df4-facdc14c1b7a)
 
+
 You can also add link lists (of the same type) using the Create link list button ![create-2](https://github.com/yutijang/M-Dl/assets/5685320/6bd7719d-271d-44d5-be56-df746fd1ae28)
 
 YouTube links list
