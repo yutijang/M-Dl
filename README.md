@@ -15,7 +15,7 @@ You can find and download at the following link:
 * ffmpeg [https://ffmpeg.org/](https://ffmpeg.org/)
 
 
-Or download them at [Support](https://github.com/yutijang/M-Dl/tree/main/Support) folder
+Or download them at [Support](https://github.com/yutijang/M-Dl/tree/main/Support) folder.
 
 All three files, aria2c.exe, yt-dlp.exe, and ffmpeg.exe, must be placed in the Support folder.
 
