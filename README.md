@@ -6,7 +6,7 @@ With BitTorrent, the tool only downloads and does not seed.
 ## Usage
 This is a portable version, no installation needed, run the file M-Dl.exe directly.
 
-This tool uses the following software: aria2c, yt-dlp and ffmpeg.
+This tool uses the following softwares: aria2c, yt-dlp and ffmpeg.
 
 You can find and download at the following link:
 
@@ -17,7 +17,7 @@ You can find and download at the following link:
 
 Or download them at [Support](https://github.com/yutijang/M-Dl/tree/main/Support) folder
 
-All three files, aria2c.exe, yt-dlp.exe, and ffmpeg.exe, must be placed in the Support folder at the same level as the M-Dl.exe file.
+All three files, aria2c.exe, yt-dlp.exe, and ffmpeg.exe, must be placed in the Support folder.
 
 
 The Add single link button ![add-2](https://github.com/yutijang/M-Dl/assets/5685320/419abd74-e788-4ca9-9b3a-453f9464843c) is used to analyze and add types of links: direct, torrent, magnet, playlist, media album from video and audio sharing websites, torrent files from your computer.
