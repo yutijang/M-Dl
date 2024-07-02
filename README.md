@@ -12,7 +12,7 @@ You can find and download at the following link:
 
 * aria2c [https://aria2.github.io/](https://aria2.github.io/)
 * yt-dlp [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-* ffmpeg [https://ffmpeg.org/](https://ffmpeg.org/)
+* ffmpeg [https://ffmpeg.org/](https://ffmpeg.org/) or [yt-dlp/FFmpeg-Builds](https://github.com/yt-dlp/FFmpeg-Builds)
 
 
 Or download them at [Support](https://github.com/yutijang/M-Dl/tree/main/Support) folder.
