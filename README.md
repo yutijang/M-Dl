@@ -15,7 +15,7 @@ You can find and download at the following link:
 * ffmpeg [https://ffmpeg.org/](https://ffmpeg.org/) or [yt-dlp/FFmpeg-Builds](https://github.com/yt-dlp/FFmpeg-Builds)
 
 
-Or download them at [Support](https://github.com/yutijang/M-Dl/tree/main/Support) folder.
+Or they are automatically downloaded to the latest version when selecting the About > Check Support update button.
 
 All three files aria2c.exe, yt-dlp.exe and ffmpeg.exe must be placed in the directory declared in Options > Support software directory. By default, the Support folder is at the same level as the M-Dl.exe file.
 
