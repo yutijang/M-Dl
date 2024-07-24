@@ -15,7 +15,11 @@ You can find and download at the following link:
 * ffmpeg [https://ffmpeg.org/](https://ffmpeg.org/) or [yt-dlp/FFmpeg-Builds](https://github.com/yt-dlp/FFmpeg-Builds)
 
 
-Or they are automatically downloaded to the latest version when selecting the About > Check Support update button.
+Or they are automatically downloaded to the latest version when selecting the About > Check Support update button,
+they are downloaded according to the following links:
+* aria2c: [https://github.com/aria2/aria2/releases/latest](https://github.com/aria2/aria2/releases/latest)
+* yt-dlp: [https://github.com/yt-dlp/yt-dlp/releases/latest](https://github.com/yt-dlp/yt-dlp/releases/latest)
+* ffmpeg: [https://github.com/yt-dlp/FFmpeg-Builds/releases/latest](https://github.com/yt-dlp/FFmpeg-Builds/releases/latest)
 
 All three files aria2c.exe, yt-dlp.exe and ffmpeg.exe must be placed in the directory declared in Options > Support software directory. By default, the Support folder is at the same level as the M-Dl.exe file.
 
@@ -24,30 +28,33 @@ The Add single link button ![add-2](https://github.com/yutijang/M-Dl/assets/5685
 
 Main GUI
 
-![image](https://github.com/yutijang/M-Dl/assets/5685320/eb76a5f1-581f-485f-8994-95be6e285b39)
+![image](https://github.com/user-attachments/assets/33cb889a-b3c3-4392-abcc-0c976b2a744f)
+
+
 
 
 
 
 Parse YouTube link
 
-![image](https://github.com/yutijang/M-Dl/assets/5685320/cc203982-a4f7-47f5-a6ef-b9a5adb5d417)
+![image](https://github.com/user-attachments/assets/b4ca742b-f3cf-4e2a-90a6-afc72a5255d0)
 
-Parse YouTube short link
-
-![image](https://github.com/yutijang/M-Dl/assets/5685320/747475b9-97bc-4a3c-a72f-43b5cc00ad90)
 
 Parse YouTube playlist link
 
-![image](https://github.com/yutijang/M-Dl/assets/5685320/02d24dfb-f1eb-4404-8c5f-28d76c4c46c4)
+![image](https://github.com/user-attachments/assets/561e2000-6e2e-462e-8282-ede975dab3e2)
+
+
 
 Parse YouTube user link
 
-![image](https://github.com/yutijang/M-Dl/assets/5685320/6da4c7e1-ee10-4b15-a6a8-f0132fb81f71)
+![image](https://github.com/user-attachments/assets/3a5b8845-43c5-4ca9-8af7-e5c4da3d7570)
+
 
 Parse Tiktok user link
 
-![image](https://github.com/yutijang/M-Dl/assets/5685320/f89f144f-07d7-4203-949b-acd936fcceb0)
+![image](https://github.com/user-attachments/assets/19ca20d6-a32e-46b4-ac95-ece70989c489)
+
 
 Parse torrent link
 
@@ -55,22 +62,26 @@ Parse torrent link
 
 Parse torrent file
 
-![image](https://github.com/yutijang/M-Dl/assets/5685320/db8ed6fc-7473-44da-9f2c-28dd44263f96)
+![image](https://github.com/user-attachments/assets/5fd7d259-a397-4f5d-b429-42db16e8da64)
+
 
 Parse magnet link
 
-![image](https://github.com/yutijang/M-Dl/assets/5685320/94ee0f5c-cb75-4e57-9df4-facdc14c1b7a)
+![image](https://github.com/user-attachments/assets/796082ca-9556-456b-974e-0727a60b5c6c)
+
 
 
 You can also add link lists (of the same type) using the Create link list button ![create-2](https://github.com/yutijang/M-Dl/assets/5685320/6bd7719d-271d-44d5-be56-df746fd1ae28)
 
 YouTube links list
 
-![image](https://github.com/yutijang/M-Dl/assets/5685320/4b6e1735-bdd1-4202-a150-1a0437b4a90b)
+![image](https://github.com/user-attachments/assets/15c9ecea-49fc-4bc5-9962-45b5c1056ae1)
+
 
 Direct links list
 
-![image](https://github.com/yutijang/M-Dl/assets/5685320/b7fb562f-4fa6-4c9d-a7a4-458ef99488ac)
+![image](https://github.com/user-attachments/assets/53c1f875-fbf8-44d8-89a1-5229bdb96354)
+
 
 
 ---
