@@ -62,7 +62,8 @@ Parse torrent link
 
 Parse torrent file
 
-![image](https://github.com/user-attachments/assets/5fd7d259-a397-4f5d-b429-42db16e8da64)
+![image](https://github.com/user-attachments/assets/76061cf7-4a7a-4c01-a085-b81131d4e586)
+
 
 
 Parse magnet link
