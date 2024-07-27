@@ -28,7 +28,8 @@ The Add single link button ![add-2](https://github.com/yutijang/M-Dl/assets/5685
 
 Main GUI
 
-![image](https://github.com/user-attachments/assets/33cb889a-b3c3-4392-abcc-0c976b2a744f)
+![image](https://github.com/user-attachments/assets/72f992bc-dbc9-44da-96a1-71617c4b2654)
+
 
 
 
