@@ -4,9 +4,9 @@ This tool transitions the usage of aria2c and yt-dlp from command line to GUI.
 With BitTorrent, the tool only downloads and does not seed.
 
 ## Usage
-This is a portable version, no installation needed, run the file M-Dl.exe directly.
+This is a portable version, no installation needed, run the file `M-Dl.exe` directly.
 
-This tool uses the following softwares: aria2c, yt-dlp and ffmpeg.
+This tool uses the following softwares: `aria2c`, `yt-dlp` and `ffmpeg`.
 
 You can find and download at the following link:
 
@@ -15,16 +15,16 @@ You can find and download at the following link:
 * ffmpeg [https://ffmpeg.org/](https://ffmpeg.org/) or [yt-dlp/FFmpeg-Builds](https://github.com/yt-dlp/FFmpeg-Builds)
 
 
-Or they are automatically downloaded to the latest version when selecting the About > Check Support update button,
+Or they are automatically downloaded to the latest version when selecting the `About` > `Check Support update` button,
 they are downloaded according to the following links:
 * aria2c: [https://github.com/aria2/aria2/releases/latest](https://github.com/aria2/aria2/releases/latest)
 * yt-dlp: [https://github.com/yt-dlp/yt-dlp/releases/latest](https://github.com/yt-dlp/yt-dlp/releases/latest)
 * ffmpeg: [https://github.com/yt-dlp/FFmpeg-Builds/releases/latest](https://github.com/yt-dlp/FFmpeg-Builds/releases/latest)
 
-All three files aria2c.exe, yt-dlp.exe and ffmpeg.exe must be placed in the directory declared in Options > Support software directory. By default, the Support folder is at the same level as the M-Dl.exe file.
+All three files `aria2c.exe`, `yt-dlp.exe` and `ffmpeg.exe` must be placed in the directory declared in `Options` > `Support software directory`. By default, the `Support` folder is at the same level as the `M-Dl.exe` file.
 
 
-The Add single link button ![add-2](https://github.com/yutijang/M-Dl/assets/5685320/419abd74-e788-4ca9-9b3a-453f9464843c) is used to analyze and add types of links: direct, torrent, magnet, playlist, media album from video and audio sharing websites, torrent files from your computer.
+The Add single link button ![add-2](https://github.com/yutijang/M-Dl/assets/5685320/419abd74-e788-4ca9-9b3a-453f9464843c) is used to analyze and add types of links: `direct`, `torrent`, `magnet`, `playlist`, `media album` from video and audio sharing websites, `.torrent` files from your computer.
 
 Main GUI
 
