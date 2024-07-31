@@ -59,7 +59,8 @@ Parse Tiktok user link
 
 Parse torrent link
 
-![image](https://github.com/yutijang/M-Dl/assets/5685320/5459c84e-272c-4813-9164-377c1b2cd09e)
+![image](https://github.com/user-attachments/assets/be684667-8227-4e09-a91e-d8417f274174)
+
 
 Parse torrent file
 
