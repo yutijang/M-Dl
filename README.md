@@ -30,62 +30,43 @@ Main GUI
 
 ![image](https://github.com/user-attachments/assets/72f992bc-dbc9-44da-96a1-71617c4b2654)
 
-
-
-
-
-
-
 Parse YouTube link
 
-![image](https://github.com/user-attachments/assets/b4ca742b-f3cf-4e2a-90a6-afc72a5255d0)
-
+![image](https://github.com/user-attachments/assets/72a4a6d3-b43a-4311-a5f8-f2fe886feb0f)
 
 Parse YouTube playlist link
 
-![image](https://github.com/user-attachments/assets/561e2000-6e2e-462e-8282-ede975dab3e2)
-
-
+![image](https://github.com/user-attachments/assets/0c5e1f3a-ad54-454c-8e86-afd81ee08516)
 
 Parse YouTube user link
 
-![image](https://github.com/user-attachments/assets/3a5b8845-43c5-4ca9-8af7-e5c4da3d7570)
-
+![image](https://github.com/user-attachments/assets/b6090d9a-7506-4aa5-8457-dc86e473818c)
 
 Parse Tiktok user link
 
-![image](https://github.com/user-attachments/assets/19ca20d6-a32e-46b4-ac95-ece70989c489)
-
+![image](https://github.com/user-attachments/assets/20c4fa93-f43b-46d2-a3f7-6c3704f8e5e6)
 
 Parse torrent link
 
-![image](https://github.com/user-attachments/assets/be684667-8227-4e09-a91e-d8417f274174)
-
+![image](https://github.com/user-attachments/assets/74c0076a-9ca7-4551-b909-22660535f764)
 
 Parse torrent file
 
-![image](https://github.com/user-attachments/assets/76061cf7-4a7a-4c01-a085-b81131d4e586)
-
-
+![image](https://github.com/user-attachments/assets/a9f0c463-340b-4706-8684-78270987e4f7)
 
 Parse magnet link
 
-![image](https://github.com/user-attachments/assets/796082ca-9556-456b-974e-0727a60b5c6c)
-
-
+![image](https://github.com/user-attachments/assets/29733bc7-9d28-460a-a678-bb54ca38894a)
 
 You can also add link lists (of the same type) using the Create link list button ![create-2](https://github.com/yutijang/M-Dl/assets/5685320/6bd7719d-271d-44d5-be56-df746fd1ae28)
 
 YouTube links list
 
-![image](https://github.com/user-attachments/assets/15c9ecea-49fc-4bc5-9962-45b5c1056ae1)
-
+![image](https://github.com/user-attachments/assets/ebf7ce42-154f-4091-b414-00d0e2c4da71)
 
 Direct links list
 
-![image](https://github.com/user-attachments/assets/53c1f875-fbf8-44d8-89a1-5229bdb96354)
-
-
+![image](https://github.com/user-attachments/assets/e571e1f4-ce18-4e53-bf59-edeab98e43e2)
 
 ---
 This tool is written in the AutoIt programming language so it will inevitably be mistakenly recognized as a virus by anti-virus softwares. It's up to you whether you want to use it or not
