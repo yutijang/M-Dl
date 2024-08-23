@@ -62,6 +62,11 @@ Parse Google Drive link
 
 ![image](https://github.com/user-attachments/assets/5f3f5aaf-b9e3-4bf8-a826-cb663c61f575)
 
+Parse direct lonk
+
+![image](https://github.com/user-attachments/assets/33f6cb57-f8d3-4a7a-acfd-efca173ec93a)
+
+
 
 You can also add link lists (of the same type) using the Create link list button ![create-2](https://github.com/yutijang/M-Dl/assets/5685320/6bd7719d-271d-44d5-be56-df746fd1ae28)
 
