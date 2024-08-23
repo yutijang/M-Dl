@@ -62,7 +62,7 @@ Parse Google Drive link
 
 ![image](https://github.com/user-attachments/assets/5f3f5aaf-b9e3-4bf8-a826-cb663c61f575)
 
-Parse direct lonk
+Parse direct link
 
 ![image](https://github.com/user-attachments/assets/33f6cb57-f8d3-4a7a-acfd-efca173ec93a)
 
