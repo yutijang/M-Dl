@@ -4,7 +4,7 @@ This tool transitions the usage of aria2c and yt-dlp from command line to GUI.
 With BitTorrent, the tool only downloads and does not seed.
 
 ## Usage
-This is a portable version, so no installation is required. Choose the compressed file version you want to download: `M-Dlx86.zip (32-bit)` or `M-Dlx64.zip (64-bit)`. Inside the compressed file, you will find two files: `M-Dl.exe` and `asset.zip`. Unzip them to any location you prefer, and then run the `M-Dl.exe` file directly.
+This is a portable version, so no installation is required. Choose the compressed file version you want to download: `M-Dlx86.zip` (32-bit) or `M-Dlx64.zip` (64-bit). Inside the compressed file, you will find two files: `M-Dl.exe` and `asset.zip`. Unzip them to any location you prefer, and then run the `M-Dl.exe` file directly.
 
 This tool uses the following softwares: `aria2c`, `yt-dlp` and `ffmpeg`.
 
