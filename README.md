@@ -3,6 +3,13 @@
 This tool transitions the usage of aria2c and yt-dlp from command line to GUI.
 With BitTorrent, the tool only downloads and does not seed.
 
+## Changelog
+=== Version 1.2 ===
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\- Add DPI Awareness mode.
+
+
+
 ## Usage
 This is a portable version, so no installation is required. Choose the compressed file version you want to download: `M-Dlx86.zip` (32-bit) or `M-Dlx64.zip` (64-bit). Inside the compressed file, you will find two files: `M-Dl.exe` and `asset.zip`. Unzip them to any location you prefer, and then run the `M-Dl.exe` file directly.
 
