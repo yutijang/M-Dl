@@ -3,10 +3,13 @@
 This tool transitions the usage of aria2c and yt-dlp from command line to GUI.
 With BitTorrent, the tool only downloads and does not seed.
 
+| This tool is written in the AutoIt programming language so it will inevitably be mistakenly recognized as a virus by anti-virus softwares. It's up to you whether you want to use it or not        | 
+| ------------- |
 ## Changelog
 === Version 1.2 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\- Add DPI Awareness mode.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\- Issue noted: the download manager is not functioning correctly.
 
 
 
@@ -86,4 +89,4 @@ Direct links list
 ![image](https://github.com/user-attachments/assets/e571e1f4-ce18-4e53-bf59-edeab98e43e2)
 
 ---
-This tool is written in the AutoIt programming language so it will inevitably be mistakenly recognized as a virus by anti-virus softwares. It's up to you whether you want to use it or not
+
