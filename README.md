@@ -9,6 +9,7 @@ With BitTorrent, the tool only downloads and does not seed.
 === Version 1.2 ===
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\- Add DPI Awareness mode.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\- Issue noted: the download manager is not functioning correctly.
 
 
